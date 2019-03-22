@@ -1,0 +1,4 @@
+module MoQualityiOSTest {
+  header "MoQualityiOSTest-Swift.h"
+  export *
+}
